@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on any interresting projects.
 - 📫 How to reach me? Let my know on my personal website 🙂.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sramekmichal&layout=compact&langs_count=8&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sramekmichal&layout=compact&langs_count=8&theme=merko)
 
 <!---
 sramekmichal/sramekmichal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
