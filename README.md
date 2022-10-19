@@ -2,15 +2,17 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=sramekmichal.sramekmichal)
 [![Github](https://img.shields.io/github/followers/sramekmichal?label=Follow&style=social)](https://github.com/sramekmichal)
+[![paypal.me/sramek5](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/sramek5)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SRAMEKMICHAL&show_icons=true&theme=merko)
 
-- 👋 Hi, I’m Michal Šrámek.
-- 👀 I’m interested in Science.
-- 🌱 I’m currently working as Automation Engineer at [LMC s.r.o.](https://github.com/lmc-eu)
-- 😎 I'm part of Developer Experience team.
-- 💞️ I’m looking to collaborate on any interresting projects.
-- 📫 How to reach me? Let my know on my personal website 🙂.
+- 👋 Hi, I’m **Michal Šrámek**.
+- 👀 I’m interested in **Science**.
+- 🛠️ I’m currently working as **Automation Engineer** at [LMC s.r.o.](https://github.com/lmc-eu)
+- 🏢 I'm part of **Developer Experience** team.
+- 💞️ I’m looking to collaborate on some iterresting **Cloud-based** project.
+- 📫 You can reach me on my [personal website](http://www.michalsramek.wz.cz/) 🙂.
+- ☕ If you wanna buy me a coffee, you can make one-time donation via [PayPal](https://www.paypal.me/sramek5).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sramekmichal&layout=compact&langs_count=8&theme=merko)
 
