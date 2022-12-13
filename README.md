@@ -11,7 +11,7 @@
 - 🛠️ I’m currently working as **Automation Engineer** at [LMC s.r.o.](https://github.com/lmc-eu)
 - 🏢 I'm part of **Developer Experience** team.
 - 💞️ I’m looking to collaborate on some iterresting **Cloud-based** project.
-- 📫 You can reach me on my [Personal Website](http://www.michalsramek.wz.cz/) 🙂.
+- 📫 You can reach me on my [Comapny Website](http://www.apertastudio.eu) 🙂.
 - ☕ If you wanna buy me a coffee, you can make one-time donation via [PayPal](https://www.paypal.me/sramek5).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sramekmichal&layout=compact&langs_count=8&theme=merko)
