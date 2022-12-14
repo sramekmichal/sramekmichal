@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m **Michal Šrámek**.
 - 👀 I’m interested in **Science**, you can check my [Publications](https://scholar.google.com/citations?hl=cs&user=o1_64h8AAAAJ).
-- 🛠️ I’m currently working as **Automation Engineer** at [LMC s.r.o.](https://github.com/lmc-eu)
+- 🛠️ I’m currently working as **Automation Engineer** at [LMC s.r.o.](https://github.com/lmc-eu) / [Alma Career](https://github.com/almacareer).
 - 🏢 I'm part of **Developer Experience** team.
 - 💞️ I’m looking to collaborate on some iterresting **Cloud-based** project.
 - 📫 You can reach me on my [Company Website](http://www.apertastudio.eu) 🙂.
