@@ -3,6 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=sramekmichal.sramekmichal)
 [![Github](https://img.shields.io/github/followers/sramekmichal?label=Follow&style=social)](https://github.com/sramekmichal)
 [![paypal.me/sramek5](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/sramek5)
+<a href="https://www.buymeacoffee.com/sramek5"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me a Coffee&emoji=&slug=sramek5&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" height="20px" /></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SRAMEKMICHAL&show_icons=true&theme=merko)
 
@@ -12,7 +13,7 @@
 - 🏢 I'm part of **Developer Experience** team.
 - 💞️ I’m looking to collaborate on some iterresting **Cloud-based** project.
 - 📫 You can reach me on my [Company Website](https://www.apertastudio.eu) 🙂
-- ☕ If you wanna buy me a coffee, you can make one-time donation via [PayPal](https://www.paypal.me/sramek5).
+- ☕ If you wanna buy me a coffee, you can make one-time donation via [PayPal](https://www.paypal.me/sramek5) or [buymeacoffee](https://www.buymeacoffee.com/sramek5).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sramekmichal&layout=compact&langs_count=8&theme=merko)
 
