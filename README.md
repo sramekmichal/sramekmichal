@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=sramekmichal.sramekmichal)
 [![Github](https://img.shields.io/github/followers/sramekmichal?label=Follow&style=social)](https://github.com/sramekmichal)
 [![paypal.me/sramek5](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/sramek5)
-<a href="https://www.buymeacoffee.com/sramek5"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me a Coffee&emoji=&slug=sramek5&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" height="20px" /></a>
+<a href="https://www.buymeacoffee.com/sramek5"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me a Coffee&emoji=&slug=sramek5&button_colour=40DCA5&font_colour=000000&font_family=Cookies&outline_colour=000000&coffee_colour=FFDD00" target="_blank" height="20px" /></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SRAMEKMICHAL&show_icons=true&theme=merko)
 
