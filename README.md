@@ -13,7 +13,7 @@
 - 🏢 I'm part of **Developer Experience** team.
 - 💞️ I’m looking to collaborate on some iterresting **Cloud-based** project.
 - 📫 You can reach me on my [Company Website](https://www.apertastudio.eu) 🙂
-- ☕ If you wanna buy me a coffee, you can make one-time donation via [PayPal](https://www.paypal.me/sramek5) or [buymeacoffee](https://www.buymeacoffee.com/sramek5).
+- ☕ If you wanna, you can [buymeacoffee](https://www.buymeacoffee.com/sramek5), or you can make one-time donation via [PayPal](https://www.paypal.me/sramek5).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sramekmichal&layout=compact&langs_count=8&theme=merko)
 
