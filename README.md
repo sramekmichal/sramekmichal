@@ -9,11 +9,13 @@
 
 - 👋 Hi, I’m **Michal Šrámek**.
 - 👀 I’m interested in **Science**, you can check my [Publications](https://scholar.google.com/citations?hl=cs&user=o1_64h8AAAAJ).
-- 🛠️ I’m currently working as **Automation Engineer** at [LMC s.r.o.](https://github.com/lmc-eu) / [Alma Career](https://github.com/almacareer).
+- 🛠️ I’m currently working as an **Automation Engineer** at [LMC s.r.o.](https://github.com/lmc-eu) / [Alma Career](https://github.com/almacareer).
 - 🏢 I'm part of **Developer Experience** team.
 - 💞️ I’m looking to collaborate on some iterresting **Cloud-based** project.
-- 📫 You can reach me on my [Company Website](https://www.apertastudio.eu) 🙂
-- ☕ If you wanna, you can [buymeacoffee](https://www.buymeacoffee.com/sramek5), or you can make one-time donation via [PayPal](https://www.paypal.me/sramek5).
+- 📫 You can reach me on my [Personal Website](https://www.michalsramek.eu) 🙂
+- 💼 I have a small company [Aperta Studio](https://www.apertastudio.eu) providing various **3D Services**.
+- 🛒 I also run [Nerdshark](https://www.nerdshark.eu), my own E-shop  focusing on home-made **Art**, **Desing** and **Fashion** goods.
+- ☕ If you like my work, you can [buymeacoffee](https://www.buymeacoffee.com/sramek5), or you can make one-time donation via [PayPal](https://www.paypal.me/sramek5).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sramekmichal&layout=compact&langs_count=8&theme=merko)
 
