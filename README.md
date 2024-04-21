@@ -9,9 +9,9 @@
 
 - 👋 Hi, I’m **Michal Šrámek**.
 - 👀 I’m interested in **Science**, you can check my [Publications](https://scholar.google.com/citations?hl=cs&user=o1_64h8AAAAJ).
-- 🛠️ I’m currently working as an **Automation Engineer** at [LMC s.r.o.](https://github.com/lmc-eu) / [Alma Career](https://github.com/almacareer).
-- 🏢 I'm part of **Developer Experience** team.
-- 💞️ I’m looking to collaborate on some iterresting **Cloud-based** project.
+- 🛠️ I’m currently working as an **DevOps Engineer** at [Trustsoft s.r.o.](https://www.trustsoft.eu/).
+- 🏢 I'm part of **Architecture** team.
+- 💞️ I’m looking to collaborate on some iterresting **security-cloud-based** project.
 - 📫 You can reach me on my [Personal Website](https://www.michalsramek.eu) 🙂
 - 💼 I have a small company [Aperta Studio](https://www.apertastudio.eu) providing various **3D Services**.
 - 🛒 I also run [Nerdshark](https://www.nerdshark.eu), my own E-shop  focusing on home-made **Art**, **Desing** and **Fashion** goods.
