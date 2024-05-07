@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m **Michal Šrámek**.
 - 👀 I’m interested in **Science**, you can check my [Publications](https://scholar.google.com/citations?hl=cs&user=o1_64h8AAAAJ).
-- 🛠️ I’m currently working as a **DevOps Engineer** at [Trustsoft](https://www.trustsoft.eu/)
+- 🛠️ I’m currently working as a **DevOps Engineer** at [Trustsoft](https://www.trustsoft.eu/).
 - 🏢 I'm part of **Technology** section.
 - 💞️ I’m looking to collaborate on some iterresting **security-cloud-based** project.
 - 📫 You can reach me on my [Personal Website](https://www.michalsramek.eu) 🙂
